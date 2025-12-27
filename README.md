@@ -49,7 +49,7 @@ This repository is currently under developement for implementation of quantum ma
 
     *Week 2* — Build QML Foundations
 
-    Goal: Implement small QML models so your team becomes comfortable.
+- **Goal**: Implement small QML models so your team becomes comfortable.
 
     Choose one framework:
     - PennyLane + PyTorch (easiest)
@@ -90,7 +90,7 @@ This repository is currently under developement for implementation of quantum ma
 
     *Week 3* — Implement the Strategic Decision-Making Model
 
-    **Goal**: Apply QML to your decision-making task.
+- **Goal**: Apply QML to your decision-making task.
 
     *Day 15–17*: Build Problem Environment
 
